@@ -2,7 +2,7 @@
 
 $servidor = "localhost";
 $usuario = "root";
-$senha = "123456";
+$senha = "";
 $bd = "sistema_web";
 
 // Create connection
